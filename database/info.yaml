@@ -1,0 +1,9 @@
+databases:
+  TotalNonfarmPayrolls: NonfarmPayrolls
+  UnemploymentRate: UnemploymentRate
+  AverageHourlyEarningsofAllEmployees: AHE
+  ConsumerPriceIndexforAllUrbanConsumers: CPIAUCSL
+  CoreConsumerPriceIndexforAllUrbanConsumers: CPILFESL
+  PersonalConsumptionExpenditures: PCEPI
+  RealGrossDomesticProduct: GDPC1
+
